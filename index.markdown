@@ -48,14 +48,14 @@
 </table>
 
 # Mini , quiet and power saving
-<img src='./assets/mini.png'>
-<img src='./assets/quiet.png'>
+<img src='./assets/mini.PNG'>
+<img src='./assets/quiet.PNG'>
 
 # Easy To Use
 
-<img src='./assets/easy.png'>
-<img src='./assets/easy2.png'>
+<img src='./assets/easy.PNG'>
+<img src='./assets/easy2.PNG'>
 
 # Specifications & Price
 
-<img src='./assets/price.png'>
+<img src='./assets/price.PNG'>

@@ -31,8 +31,9 @@
   border: 0px solid black!important;
 }
 </style>
+<br/>
+<center><h1>What is HAMiniBox?</h1></center>
 
-# What is HAMiniBox?
 <table class='t1'>
 <tr class='t1'>
 
@@ -46,16 +47,16 @@
 </td>
 </tr>
 </table>
-
-# Mini , quiet and power saving
+<br/>
+<center><h1>Mini , quiet and power saving</h1></center>
 <img src='./assets/mini.PNG'>
 <img src='./assets/quiet.PNG'>
-
-# Easy To Use
+<br/>
+<center><h1>Easy To Use</h1></center>
 
 <img src='./assets/easy.PNG'>
 <img src='./assets/easy2.PNG'>
-
-# Specifications & Price
+<br/>
+<center><h1>Specifications & Price</h1></center>
 
 <img src='./assets/price.PNG'>

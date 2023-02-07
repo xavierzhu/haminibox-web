@@ -48,15 +48,21 @@
 </tr>
 </table>
 <br/>
+<br/>
+
 <center><h1>Mini , quiet and power saving</h1></center>
 <img src='./assets/mini.PNG'>
 <img src='./assets/quiet.PNG'>
 <br/>
+<br/>
+
 <center><h1>Easy To Use</h1></center>
 
 <img src='./assets/easy.PNG'>
 <img src='./assets/easy2.PNG'>
 <br/>
+<br/>
+
 <center><h1>Specifications & Price</h1></center>
 
 <img src='./assets/price.PNG'>
